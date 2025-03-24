@@ -9,7 +9,7 @@ pinned: false
 
 
 
-<!-- # 📄 Company News Summarization & Sentiment Analysis - README
+# 📄 Company News Summarization & Sentiment Analysis - README
 
 ## Project Overview
 This project is a **web-based application** that extracts key details from multiple news articles related to a given company, performs **sentiment analysis**, conducts a **comparative analysis**, and generates a **Hindi text-to-speech (TTS) output**. Users can input a company name, and the application will provide a **structured sentiment report** along with **an audio summary**.
@@ -151,4 +151,4 @@ Implement **advanced TTS models** like **Coqui.ai or VITS** for better Hindi voi
 
 ## Conclusion
 This project automates **news retrieval, sentiment analysis, and text-to-speech conversion**, making it easy for users to **get summarized news insights**. 
- -->
+
